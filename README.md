@@ -1,8 +1,13 @@
 React JS-1
+
 Introduction
+
 What is React?
+
 ➢ React is a JavaScript library and open source project created by Facebook
+
 ➢ React is used to build interactive user interfaces (UI) components.
+
 ➢ One of the most important aspects of React is the fact that you can create components,
 which are like custom, reusable HTML elements, to quickly and efficiently build user
 interfaces. React also streamlines how data is stored and handled, using state and props.
